@@ -1,0 +1,63 @@
+\contentsline {title}{Machine Learning A-Z}{1}
+\authcount {1}
+\contentsline {author}{{}}{1}
+\contentsline {section}{Introduction}{2}
+\contentsline {section}{\numberline {1}Preprocessing}{2}
+\contentsline {subsection}{\numberline {1.1}Problems with datasets}{3}
+\contentsline {subsection}{\numberline {1.2}Code template in Python}{3}
+\contentsline {subsection}{\numberline {1.3}Code template in R}{3}
+\contentsline {section}{\numberline {2}Regression}{5}
+\contentsline {subsection}{\numberline {2.1}Regression code template in Python}{5}
+\contentsline {subsection}{\numberline {2.2}Regression code template in R}{5}
+\contentsline {subsection}{\numberline {2.3}Simple Linear Regression}{6}
+\contentsline {subsection}{\numberline {2.4}Multiple Linear Regression}{8}
+\contentsline {subsubsection}{Assumptions of Linear Regression}{8}
+\contentsline {subsubsection}{5 methods of building models}{9}
+\contentsline {subsubsection}{Backward elimination}{9}
+\contentsline {subsubsection}{Forward Selection}{9}
+\contentsline {subsubsection}{Bidirectional elimination}{10}
+\contentsline {subsubsection}{Code}{10}
+\contentsline {subsection}{\numberline {2.5}Polynomial Regression}{12}
+\contentsline {subsection}{\numberline {2.6}Support Vector Regression (SVR)}{13}
+\contentsline {subsection}{\numberline {2.7}Decision Tree Regression}{14}
+\contentsline {subsection}{\numberline {2.8}Random Forest Regression}{15}
+\contentsline {subsection}{\numberline {2.9}Evaluating model performance}{17}
+\contentsline {subsubsection}{R-squared}{17}
+\contentsline {subsubsection}{Adjusted R-squared}{17}
+\contentsline {section}{\numberline {3}Classification}{18}
+\contentsline {subsection}{\numberline {3.1}Classification code template in Python}{19}
+\contentsline {subsection}{\numberline {3.2}Classification code template in R}{20}
+\contentsline {subsection}{\numberline {3.3}Logistic regression}{21}
+\contentsline {subsection}{\numberline {3.4}K-Nearest neighbours}{24}
+\contentsline {subsection}{\numberline {3.5}SVM (Support Vector Machine)}{25}
+\contentsline {subsection}{\numberline {3.6}Kernel SVM}{28}
+\contentsline {subsection}{\numberline {3.7}Naive Bayes}{28}
+\contentsline {subsection}{\numberline {3.8}Decision Tree Classification}{30}
+\contentsline {subsection}{\numberline {3.9}Random Forest Classification}{32}
+\contentsline {subsection}{\numberline {3.10}Evaluating Classification model performance}{33}
+\contentsline {subsubsection}{Confusion matrix}{33}
+\contentsline {subsubsection}{Accuracy paradox}{34}
+\contentsline {subsubsection}{CAP curve}{35}
+\contentsline {section}{\numberline {4}Clustering}{36}
+\contentsline {subsection}{\numberline {4.1}K-means clustering}{37}
+\contentsline {subsubsection}{Elbow method to find optimal K}{37}
+\contentsline {subsubsection}{Implementation}{38}
+\contentsline {subsection}{\numberline {4.2}Hierarchical clustering}{40}
+\contentsline {subsubsection}{Dendrograms}{41}
+\contentsline {section}{\numberline {5}Association rule learning}{43}
+\contentsline {subsection}{\numberline {5.1}Apriori}{43}
+\contentsline {subsection}{\numberline {5.2}Eclat}{46}
+\contentsline {section}{\numberline {6}Reinforcement learning}{47}
+\contentsline {subsection}{\numberline {6.1}Upper Confidence Bound (UCB)}{47}
+\contentsline {subsection}{\numberline {6.2}Thompson sampling}{47}
+\contentsline {section}{\numberline {7}Natural language processing}{48}
+\contentsline {section}{\numberline {8}Deep learning}{49}
+\contentsline {subsection}{\numberline {8.1}Artificial Neural Network}{49}
+\contentsline {subsection}{\numberline {8.2}Convolutional Neural Network}{49}
+\contentsline {section}{\numberline {9}Dimensionality reduction}{50}
+\contentsline {subsection}{\numberline {9.1}Principal Component Analysis (PCA)}{50}
+\contentsline {subsection}{\numberline {9.2}Linear Discriminant Analysis (LDA)}{50}
+\contentsline {subsection}{\numberline {9.3}Kernel PCA}{50}
+\contentsline {section}{\numberline {10}Model selection and boosting}{51}
+\contentsline {subsection}{\numberline {10.1}Model selection}{51}
+\contentsline {subsection}{\numberline {10.2}XGBoost}{51}
